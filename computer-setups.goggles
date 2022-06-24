@@ -3,7 +3,5 @@
 ! public: true
 ! author: Mukund Mauji
 
-$discard
-
-/r/battlestations/^$site=reddit.com
-/r/Monitors/^$site=reddit.com
+/r/battlestations/^$boost=4,site=reddit.com
+/r/Monitors/^$boost=4,site=reddit.com

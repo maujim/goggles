@@ -1,0 +1,9 @@
+! name: Explore Computer Setup
+! description: Explore different PC setups and battlestations
+! public: true
+! author: Mukund Mauji
+
+$discard
+
+/r/battlestations/^$site=reddit.com
+/r/Monitors/^$site=reddit.com
